@@ -1,0 +1,28 @@
+name: schedule-update
+on:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  bots:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "Checkout code"
+        uses: actions/checkout@v1
+
+      - name: "Set node"
+        uses: actions/setup-node@v1
+        with:
+          node-version: 16.x
+
+      - name: "Install"
+        run: npx pnpm i
+
+      - name: "Run bash"
+        run: node main.js
+ 
+      - name: "Commit"
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: save robot"
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
