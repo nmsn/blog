@@ -3,6 +3,7 @@ const path = require("path");
 const fs = require("fs");
 
 const issuesUrl = "https://api.github.com/repos/nmsn/blog/issues";
+// const issuesLabelUrl = "https://api.github.com/repos/nmsn/blog/labels";
 
 const title = ({ title, level }) => {
   return `${"#".repeat(level)} ${title}`;
@@ -16,7 +17,7 @@ const tag = (tags) => {
   return `标签：${tags?.join(" | ")}`;
 };
 
-const contentItem = ({ url, title, tags }) => {
+const contentItem = ({  url, title, tags }) => {
   return `
   ${link({ url, title })}\n
   ${tag(tags)}
@@ -36,18 +37,20 @@ axios(issuesUrl).then((res) => {
     const tags = labels?.map((item) => item.name);
     return { title, url, tags };
   });
-
-  const content = origin?.map((item) => contentItem(item)).join("\n");
+  
+  const content = origin?.map((item) => contentItem(item)).join('\n');
 
   const md = `
-  ${title({ title: "Blog", level: 1 })}
+  ${title({ title: "统计", level: 1 })}
   
   > 更新时间：${updateTime()}
   
   ${content}
   `;
 
-  fs.writeFile(path.join(__dirname, "README.md"), md, (err) => {
+  console.log(origin, md);
+
+  fs.writeFile("./README.md", md, (err) => {
     if (err) {
       console.error(err);
       return;
@@ -55,3 +58,6 @@ axios(issuesUrl).then((res) => {
     //文件写入成功。
   });
 });
+
+
+console.log(path.join(__dirname, 'README.md'));
