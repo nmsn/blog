@@ -1,4 +1,5 @@
 name: schedule-update
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -11,10 +12,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: "Checkout code"
-        uses: actions/checkout@v3
+        uses: actions/checkout@v1
 
       - name: "Set node"
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v1
         with:
           node-version: 16.x
 
@@ -27,4 +28,5 @@ jobs:
       - name: "Commit"
         uses: EndBug/add-and-commit@v9
         with:
+          add: 'README.md'
           message: "chore: update readme"
