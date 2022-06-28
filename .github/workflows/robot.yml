@@ -29,4 +29,5 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           add: 'README.md'
+          push: origin HEAD:main
           message: "chore: update readme"
