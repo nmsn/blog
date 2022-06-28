@@ -30,7 +30,6 @@ const updateTime = () => {
 
 axios(issuesUrl).then((res) => {
   const { data = [] } = res || {};
-  console.log(data);
 
   const origin = data.map((item) => {
     const { title, url, labels } = item;
@@ -47,8 +46,6 @@ axios(issuesUrl).then((res) => {
   
   ${content}
   `;
-
-  console.log(origin, md);
 
   fs.writeFile("./README.md", md, (err) => {
     if (err) {
