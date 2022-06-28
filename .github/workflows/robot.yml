@@ -27,6 +27,4 @@ jobs:
       - name: "Commit"
         uses: EndBug/add-and-commit@v9
         with:
-          message: "chore: save robot"
-        env:
-          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          message: "chore: update readme"
