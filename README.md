@@ -1,7 +1,7 @@
 
   # 统计
   
-  > 更新时间：7/25/2022
+  > 更新时间：7/26/2022
   
   
   [不推荐使用 camelCase/PascalCase 命名文件](https://api.github.com/repos/nmsn/blog/issues/22)
