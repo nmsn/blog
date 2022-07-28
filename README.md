@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：7/27/2022
+  > 更新时间：7/28/2022
   
   
+  [package.json 中 browser，module，main 字段优先级](https://api.github.com/repos/nmsn/blog/issues/23)
+
+  标签：JavaScript
+  
+
   [不推荐使用 camelCase/PascalCase 命名文件](https://api.github.com/repos/nmsn/blog/issues/22)
 
   标签：React
