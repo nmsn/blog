@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：7/28/2022
+  > 更新时间：7/29/2022
   
   
+  [js 退出循环](https://api.github.com/repos/nmsn/blog/issues/24)
+
+  标签：
+  
+
   [package.json 中 browser，module，main 字段优先级](https://api.github.com/repos/nmsn/blog/issues/23)
 
   标签：JavaScript
