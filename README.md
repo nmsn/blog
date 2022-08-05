@@ -1,7 +1,7 @@
 
   # 统计
   
-  > 更新时间：8/4/2022
+  > 更新时间：8/5/2022
   
   
   [js 退出循环](https://api.github.com/repos/nmsn/blog/issues/24)
