@@ -3,7 +3,6 @@ const path = require("path");
 const fs = require("fs");
 
 const issuesUrl = "https://api.github.com/repos/nmsn/blog/issues";
-// const issuesLabelUrl = "https://api.github.com/repos/nmsn/blog/labels";
 
 const title = ({ title, level }) => {
   return `${"#".repeat(level)} ${title}`;
@@ -17,7 +16,7 @@ const tag = (tags) => {
   return `标签：${tags?.join(" | ")}`;
 };
 
-const contentItem = ({  url, title, tags }) => {
+const contentItem = ({ url, title, tags }) => {
   return `
   ${link({ url, title })}\n
   ${tag(tags)}
@@ -32,12 +31,12 @@ axios(issuesUrl).then((res) => {
   const { data = [] } = res || {};
 
   const origin = data.map((item) => {
-    const { title, url, labels } = item;
+    const { title, html_url, labels } = item;
     const tags = labels?.map((item) => item.name);
-    return { title, url, tags };
+    return { title, url: html_url, tags };
   });
-  
-  const content = origin?.map((item) => contentItem(item)).join('\n');
+
+  const content = origin?.map((item) => contentItem(item)).join("\n");
 
   const md = `
   ${title({ title: "统计", level: 1 })}
@@ -56,5 +55,4 @@ axios(issuesUrl).then((res) => {
   });
 });
 
-
-console.log(path.join(__dirname, 'README.md'));
+console.log(path.join(__dirname, "README.md"));
