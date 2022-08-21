@@ -1,12 +1,42 @@
 
   # 统计
   
-  > 更新时间：8/9/2022
+  > 更新时间：8/21/2022
   
   
-  [js 退出循环](https://github.com/nmsn/blog/issues/24)
+  [Promise 的实现](https://github.com/nmsn/blog/issues/31)
 
-  标签：
+  标签：ES6
+  
+
+  [康波周期与美林时钟](https://github.com/nmsn/blog/issues/30)
+
+  标签：经济
+  
+
+  [umd 原理](https://github.com/nmsn/blog/issues/29)
+
+  标签：JavaScript
+  
+
+  [ts 泛型常用字母](https://github.com/nmsn/blog/issues/28)
+
+  标签：TypeScript
+  
+
+  [`.d.ts/.ts/declare` 三者的关系](https://github.com/nmsn/blog/issues/27)
+
+  标签：TypeScript
+  
+
+  [jest 中遇到 lodash-es 时的问题](https://github.com/nmsn/blog/issues/26)
+
+  标签：Jest
+  
+
+  [process.env 赋值的属性会隐式转化为 string 类型](https://github.com/nmsn/blog/issues/25)
+
+  标签：Node
   
 
   [package.json 中 browser，module，main 字段优先级](https://github.com/nmsn/blog/issues/23)
