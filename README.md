@@ -4,9 +4,14 @@
   > 更新时间：8/23/2022
   
   
+  [async/await 遍历方法](https://github.com/nmsn/blog/issues/33)
+
+  标签：ES6
+  
+
   [ npm 模块安装机制](https://github.com/nmsn/blog/issues/32)
 
-  标签：
+  标签：npm
   
 
   [Promise 的实现](https://github.com/nmsn/blog/issues/31)
@@ -147,10 +152,5 @@
   [黄金圈法则（Why-How-What）](https://github.com/nmsn/blog/issues/3)
 
   标签：思维方式
-  
-
-  [执行上下文与作用域](https://github.com/nmsn/blog/issues/2)
-
-  标签：JavaScript
   
   
