@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：8/21/2022
+  > 更新时间：8/23/2022
   
   
+  [ npm 模块安装机制](https://github.com/nmsn/blog/issues/32)
+
+  标签：
+  
+
   [Promise 的实现](https://github.com/nmsn/blog/issues/31)
 
   标签：ES6
@@ -147,10 +152,5 @@
   [执行上下文与作用域](https://github.com/nmsn/blog/issues/2)
 
   标签：JavaScript
-  
-
-  [interface 和 type 的选择问题](https://github.com/nmsn/blog/issues/1)
-
-  标签：TypeScript
   
   
