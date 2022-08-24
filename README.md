@@ -6,7 +6,7 @@
   
   [prefetch/preload](https://github.com/nmsn/blog/issues/35)
 
-  标签：
+  标签：JavaScript
   
 
   [原型链](https://github.com/nmsn/blog/issues/34)
