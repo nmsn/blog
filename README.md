@@ -4,6 +4,11 @@
   > 更新时间：8/24/2022
   
   
+  [prefetch/preload](https://github.com/nmsn/blog/issues/35)
+
+  标签：
+  
+
   [原型链](https://github.com/nmsn/blog/issues/34)
 
   标签：JavaScript
@@ -147,10 +152,5 @@
   [React18批处理](https://github.com/nmsn/blog/issues/5)
 
   标签：React
-  
-
-  [JS 中 Object 的 keys 是无序的吗](https://github.com/nmsn/blog/issues/4)
-
-  标签：JavaScript
   
   
