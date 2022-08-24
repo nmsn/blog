@@ -4,6 +4,11 @@
   > 更新时间：8/24/2022
   
   
+  [取消 promise](https://github.com/nmsn/blog/issues/37)
+
+  标签：ES6
+  
+
   [基于符号链接的 node_modules 结构](https://github.com/nmsn/blog/issues/36)
 
   标签：
@@ -145,11 +150,6 @@
   
 
   [Iterator 与 Generator](https://github.com/nmsn/blog/issues/7)
-
-  标签：JavaScript
-  
-
-  [ES6 Class](https://github.com/nmsn/blog/issues/6)
 
   标签：JavaScript
   
