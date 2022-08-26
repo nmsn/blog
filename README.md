@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：8/24/2022
+  > 更新时间：8/26/2022
   
   
+  [tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)
+
+  标签：
+  
+
   [取消 promise](https://github.com/nmsn/blog/issues/37)
 
   标签：ES6
@@ -11,7 +16,7 @@
 
   [基于符号链接的 node_modules 结构](https://github.com/nmsn/blog/issues/36)
 
-  标签：
+  标签：npm
   
 
   [prefetch/preload](https://github.com/nmsn/blog/issues/35)
@@ -147,10 +152,5 @@
   [Typescript 的三种函数重载方式](https://github.com/nmsn/blog/issues/8)
 
   标签：TypeScript
-  
-
-  [Iterator 与 Generator](https://github.com/nmsn/blog/issues/7)
-
-  标签：JavaScript
   
   
