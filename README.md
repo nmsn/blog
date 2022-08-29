@@ -6,7 +6,7 @@
   
   [手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)
 
-  标签：
+  标签：JavaScript
   
 
   [tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)
