@@ -1,12 +1,17 @@
 
   # 统计
   
-  > 更新时间：8/26/2022
+  > 更新时间：8/29/2022
   
   
-  [tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)
+  [手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)
 
   标签：
+  
+
+  [tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)
+
+  标签：TypeScript
   
 
   [取消 promise](https://github.com/nmsn/blog/issues/37)
@@ -147,10 +152,5 @@
   [React.FC 不再推荐使用](https://github.com/nmsn/blog/issues/9)
 
   标签：React
-  
-
-  [Typescript 的三种函数重载方式](https://github.com/nmsn/blog/issues/8)
-
-  标签：TypeScript
   
   
