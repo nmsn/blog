@@ -1,12 +1,17 @@
 
   # 统计
   
-  > 更新时间：8/29/2022
+  > 更新时间：8/31/2022
   
   
+  [styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)
+
+  标签：CSS
+  
+
   [手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)
 
-  标签：JavaScript
+  标签：手写代码
   
 
   [tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)
@@ -147,10 +152,5 @@
   [测试目录使用 __tests__ 的原因](https://github.com/nmsn/blog/issues/10)
 
   标签：Jest
-  
-
-  [React.FC 不再推荐使用](https://github.com/nmsn/blog/issues/9)
-
-  标签：React
   
   
