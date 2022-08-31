@@ -4,6 +4,11 @@
   > 更新时间：8/31/2022
   
   
+  [HTTPS 加密逻辑](https://github.com/nmsn/blog/issues/41)
+
+  标签：网络
+  
+
   [styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)
 
   标签：CSS
@@ -147,10 +152,5 @@
   [VSCode 提示音关闭方法](https://github.com/nmsn/blog/issues/11)
 
   标签：VSCode
-  
-
-  [测试目录使用 __tests__ 的原因](https://github.com/nmsn/blog/issues/10)
-
-  标签：Jest
   
   
