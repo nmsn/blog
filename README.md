@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：8/31/2022
+  > 更新时间：9/6/2022
   
   
+  [Promise 执行顺序](https://github.com/nmsn/blog/issues/42)
+
+  标签：面试题
+  
+
   [HTTPS 加密逻辑](https://github.com/nmsn/blog/issues/41)
 
   标签：网络
@@ -147,10 +152,5 @@
   [ES5/ES6 类的区别](https://github.com/nmsn/blog/issues/12)
 
   标签：JavaScript
-  
-
-  [VSCode 提示音关闭方法](https://github.com/nmsn/blog/issues/11)
-
-  标签：VSCode
   
   
