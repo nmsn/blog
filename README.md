@@ -1,7 +1,7 @@
 
   # 统计
   
-  > 更新时间：9/6/2022
+  > 更新时间：9/7/2022
   
   
   [Promise 执行顺序](https://github.com/nmsn/blog/issues/42)
