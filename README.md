@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：9/7/2022
+  > 更新时间：9/8/2022
   
   
+  [rollup vs webpack](https://github.com/nmsn/blog/issues/43)
+
+  标签：构建工具
+  
+
   [Promise 执行顺序](https://github.com/nmsn/blog/issues/42)
 
   标签：面试题
@@ -147,10 +152,5 @@
   [__dirname 和 process.cwd 区别](https://github.com/nmsn/blog/issues/13)
 
   标签：Node
-  
-
-  [ES5/ES6 类的区别](https://github.com/nmsn/blog/issues/12)
-
-  标签：JavaScript
   
   
