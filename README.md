@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：9/8/2022
+  > 更新时间：9/13/2022
   
   
+  [PPI 和 CPI](https://github.com/nmsn/blog/issues/44)
+
+  标签：经济
+  
+
   [rollup vs webpack](https://github.com/nmsn/blog/issues/43)
 
   标签：构建工具
@@ -147,10 +152,5 @@
   [typescript 中的 any/unknown/void/never](https://github.com/nmsn/blog/issues/14)
 
   标签：TypeScript
-  
-
-  [__dirname 和 process.cwd 区别](https://github.com/nmsn/blog/issues/13)
-
-  标签：Node
   
   
