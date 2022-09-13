@@ -44,7 +44,7 @@
   标签：ES6
   
 
-  [基于符号链接的 node_modules 结构](https://github.com/nmsn/blog/issues/36)
+  [基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)
 
   标签：npm
   
