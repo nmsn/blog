@@ -1,9 +1,19 @@
 
   # 统计
   
-  > 更新时间：9/13/2022
+  > 更新时间：9/15/2022
   
   
+  [flex 实现骰子布局](https://github.com/nmsn/blog/issues/46)
+
+  标签：CSS
+  
+
+  [peers 在 pnpm 中如何被处理的](https://github.com/nmsn/blog/issues/45)
+
+  标签：npm
+  
+
   [PPI 和 CPI](https://github.com/nmsn/blog/issues/44)
 
   标签：经济
@@ -142,15 +152,5 @@
   [ReactElement/ReactNode/JSX.Element](https://github.com/nmsn/blog/issues/16)
 
   标签：React
-  
-
-  [尾调用](https://github.com/nmsn/blog/issues/15)
-
-  标签：ES6
-  
-
-  [typescript 中的 any/unknown/void/never](https://github.com/nmsn/blog/issues/14)
-
-  标签：TypeScript
   
   
