@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：9/15/2022
+  > 更新时间：9/18/2022
   
   
+  [react Form 的实现原理](https://github.com/nmsn/blog/issues/47)
+
+  标签：React
+  
+
   [flex 实现骰子布局](https://github.com/nmsn/blog/issues/46)
 
   标签：CSS
@@ -147,10 +152,5 @@
   [交叉类型的类型守卫](https://github.com/nmsn/blog/issues/17)
 
   标签：TypeScript
-  
-
-  [ReactElement/ReactNode/JSX.Element](https://github.com/nmsn/blog/issues/16)
-
-  标签：React
   
   
