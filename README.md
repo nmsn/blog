@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：9/18/2022
+  > 更新时间：10/9/2022
   
   
+  [promise.all 限制并发数量](https://github.com/nmsn/blog/issues/48)
+
+  标签：手写代码
+  
+
   [react Form 的实现原理](https://github.com/nmsn/blog/issues/47)
 
   标签：React
@@ -147,10 +152,5 @@
   [React Hooks 闭包陷阱](https://github.com/nmsn/blog/issues/18)
 
   标签：React
-  
-
-  [交叉类型的类型守卫](https://github.com/nmsn/blog/issues/17)
-
-  标签：TypeScript
   
   
