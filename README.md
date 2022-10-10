@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：10/9/2022
+  > 更新时间：10/10/2022
   
   
+  [权限系统设计](https://github.com/nmsn/blog/issues/49)
+
+  标签：架构方案
+  
+
   [promise.all 限制并发数量](https://github.com/nmsn/blog/issues/48)
 
   标签：手写代码
@@ -147,10 +152,5 @@
   [Typing defaultProps 不推荐使用](https://github.com/nmsn/blog/issues/19)
 
   标签：TypeScript
-  
-
-  [React Hooks 闭包陷阱](https://github.com/nmsn/blog/issues/18)
-
-  标签：React
   
   
