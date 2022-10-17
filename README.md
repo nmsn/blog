@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：10/10/2022
+  > 更新时间：10/17/2022
   
   
+  [散列/哈希函数](https://github.com/nmsn/blog/issues/50)
+
+  标签：其他
+  
+
   [权限系统设计](https://github.com/nmsn/blog/issues/49)
 
   标签：架构方案
@@ -147,10 +152,5 @@
   [获取 Types 的常见方法](https://github.com/nmsn/blog/issues/20)
 
   标签：TypeScript | React
-  
-
-  [Typing defaultProps 不推荐使用](https://github.com/nmsn/blog/issues/19)
-
-  标签：TypeScript
   
   
