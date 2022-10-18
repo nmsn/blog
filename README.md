@@ -1,9 +1,14 @@
 
   # 统计
   
-  > 更新时间：10/17/2022
+  > 更新时间：10/18/2022
   
   
+  [react keep-alive 实现原理](https://github.com/nmsn/blog/issues/51)
+
+  标签：React
+  
+
   [散列/哈希函数](https://github.com/nmsn/blog/issues/50)
 
   标签：其他
@@ -147,10 +152,5 @@
   [不推荐使用 Enum 类型](https://github.com/nmsn/blog/issues/21)
 
   标签：TypeScript
-  
-
-  [获取 Types 的常见方法](https://github.com/nmsn/blog/issues/20)
-
-  标签：TypeScript | React
   
   
