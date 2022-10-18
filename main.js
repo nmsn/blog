@@ -4,23 +4,30 @@ const fs = require("fs");
 
 const issuesUrl = "https://api.github.com/repos/nmsn/blog/issues";
 
-const title = ({ title, level }) => {
+const formatTitle = ({ title, level }) => {
   return `${"#".repeat(level)} ${title}`;
 };
 
-const link = ({ url, title }) => {
+const formatLink = ({ url, title }) => {
   return `[${title}](${url})`;
 };
 
-const tag = (tags) => {
-  return `标签：${tags?.join(" | ")}`;
+const formatTag = (tag) => {
+  return `\`${tag}\``;
 };
 
-const contentItem = ({ url, title, tags }) => {
-  return `
-  ${link({ url, title })}\n
-  ${tag(tags)}
-  `;
+const formatTags = (tags) => {
+  return `${tags.map((item) => formatTag(item))}`;
+};
+
+const getTableContentItem = ({ url, title, tags }) => {
+  return `|${formatLink({ url, title })}|${formatTags(tags)}|`;
+};
+
+const getTableContent = (origin) => {
+  const content = origin?.map((item) => getTableContentItem(item)).join("\n");
+
+  return `|标题|类型|\n|---|---|\n${content}`;
 };
 
 const updateTime = () => {
@@ -36,14 +43,12 @@ axios(issuesUrl).then((res) => {
     return { title, url: html_url, tags };
   });
 
-  const content = origin?.map((item) => contentItem(item)).join("\n");
+  const content = getTableContent(origin);
 
-  const md = `
-  ${title({ title: "统计", level: 1 })}
-  
-  > 更新时间：${updateTime()}
-  
-  ${content}
+  const md = `${formatTitle({
+    title: "汇总",
+    level: 1,
+  })}\n\n> 更新时间：${updateTime()}\n\n${content}
   `;
 
   fs.writeFile("./README.md", md, (err) => {
