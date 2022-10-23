@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：10/18/2022
+> 更新时间：10/23/2022
 
 |标题|类型|
 |---|---|
+|[实现分片上传](https://github.com/nmsn/blog/issues/52)|`JavaScript`|
 |[react keep-alive 实现原理](https://github.com/nmsn/blog/issues/51)|`React`|
 |[散列/哈希函数](https://github.com/nmsn/blog/issues/50)|`其他`|
 |[权限系统设计](https://github.com/nmsn/blog/issues/49)|`架构方案`|
@@ -33,5 +34,4 @@
 |[process.env 赋值的属性会隐式转化为 string 类型](https://github.com/nmsn/blog/issues/25)|`Node`|
 |[package.json 中 browser，module，main 字段优先级](https://github.com/nmsn/blog/issues/23)|`JavaScript`|
 |[不推荐使用 camelCase/PascalCase 命名文件](https://github.com/nmsn/blog/issues/22)|`React`|
-|[不推荐使用 Enum 类型](https://github.com/nmsn/blog/issues/21)|`TypeScript`|
   
