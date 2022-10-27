@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：10/23/2022
+> 更新时间：10/27/2022
 
 |标题|类型|
 |---|---|
+|[js 内置错误类型](https://github.com/nmsn/blog/issues/53)|`JavaScript`|
 |[实现分片上传](https://github.com/nmsn/blog/issues/52)|`JavaScript`|
 |[react keep-alive 实现原理](https://github.com/nmsn/blog/issues/51)|`React`|
 |[散列/哈希函数](https://github.com/nmsn/blog/issues/50)|`其他`|
@@ -33,5 +34,4 @@
 |[jest 中遇到 lodash-es 时的问题](https://github.com/nmsn/blog/issues/26)|`Jest`|
 |[process.env 赋值的属性会隐式转化为 string 类型](https://github.com/nmsn/blog/issues/25)|`Node`|
 |[package.json 中 browser，module，main 字段优先级](https://github.com/nmsn/blog/issues/23)|`JavaScript`|
-|[不推荐使用 camelCase/PascalCase 命名文件](https://github.com/nmsn/blog/issues/22)|`React`|
   
