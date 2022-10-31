@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：10/28/2022
+> 更新时间：10/31/2022
 
 |标题|类型|
 |---|---|
+|[pnpm 相对于 npm/yarn 的优势](https://github.com/nmsn/blog/issues/55)|`npm`|
 |[语义化版本控制规范 SemVer](https://github.com/nmsn/blog/issues/54)|`npm`|
 |[js 内置错误类型](https://github.com/nmsn/blog/issues/53)|`JavaScript`|
 |[实现分片上传](https://github.com/nmsn/blog/issues/52)|`JavaScript`|
@@ -33,5 +34,4 @@
 |[ts 泛型常用字母](https://github.com/nmsn/blog/issues/28)|`TypeScript`|
 |[`.d.ts/.ts/declare` 三者的关系](https://github.com/nmsn/blog/issues/27)|`TypeScript`|
 |[jest 中遇到 lodash-es 时的问题](https://github.com/nmsn/blog/issues/26)|`Jest`|
-|[process.env 赋值的属性会隐式转化为 string 类型](https://github.com/nmsn/blog/issues/25)|`Node`|
   
