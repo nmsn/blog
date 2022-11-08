@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/1/2022
+> 更新时间：11/8/2022
 
 |标题|类型|
 |---|---|
+|[十大排序算法](https://github.com/nmsn/blog/issues/56)|`算法`|
 |[pnpm 相对于 npm/yarn 的优势](https://github.com/nmsn/blog/issues/55)|`npm`|
 |[语义化版本控制规范 SemVer](https://github.com/nmsn/blog/issues/54)|`npm`|
 |[js 内置错误类型](https://github.com/nmsn/blog/issues/53)|`JavaScript`|
@@ -33,5 +34,4 @@
 |[umd 原理](https://github.com/nmsn/blog/issues/29)|`JavaScript`|
 |[ts 泛型常用字母](https://github.com/nmsn/blog/issues/28)|`TypeScript`|
 |[`.d.ts/.ts/declare` 三者的关系](https://github.com/nmsn/blog/issues/27)|`TypeScript`|
-|[jest 中遇到 lodash-es 时的问题](https://github.com/nmsn/blog/issues/26)|`Jest`|
   
