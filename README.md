@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/10/2022
+> 更新时间：11/13/2022
 
 |标题|类型|
 |---|---|
+|[前端监控 SDK 的技术要点原理分析](https://github.com/nmsn/blog/issues/58)|`架构方案`|
 |[浏览器缓存](https://github.com/nmsn/blog/issues/57)|`浏览器`|
 |[十大排序算法](https://github.com/nmsn/blog/issues/56)|`算法`|
 |[pnpm 相对于 npm/yarn 的优势](https://github.com/nmsn/blog/issues/55)|`npm`|
@@ -33,5 +34,4 @@
 |[Promise 的实现](https://github.com/nmsn/blog/issues/31)|`ES6`|
 |[康波周期与美林时钟](https://github.com/nmsn/blog/issues/30)|`经济`|
 |[umd 原理](https://github.com/nmsn/blog/issues/29)|`JavaScript`|
-|[ts 泛型常用字母](https://github.com/nmsn/blog/issues/28)|`TypeScript`|
   
