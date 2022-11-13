@@ -4,6 +4,7 @@
 
 |标题|类型|
 |---|---|
+|[sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
 |[路由监听](https://github.com/nmsn/blog/issues/59)|`浏览器`|
 |[前端监控 SDK 的技术要点原理分析](https://github.com/nmsn/blog/issues/58)|`架构方案`|
 |[浏览器缓存](https://github.com/nmsn/blog/issues/57)|`浏览器`|
@@ -33,5 +34,4 @@
 |[async/await 遍历方法](https://github.com/nmsn/blog/issues/33)|`ES6`|
 |[ npm 模块安装机制](https://github.com/nmsn/blog/issues/32)|`npm`|
 |[Promise 的实现](https://github.com/nmsn/blog/issues/31)|`ES6`|
-|[康波周期与美林时钟](https://github.com/nmsn/blog/issues/30)|`经济`|
   
