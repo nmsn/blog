@@ -4,7 +4,7 @@
 
 |标题|类型|
 |---|---|
-|[sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
+|[Navigator.sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
 |[路由监听](https://github.com/nmsn/blog/issues/59)|`浏览器`|
 |[前端监控 SDK 的技术要点原理分析](https://github.com/nmsn/blog/issues/58)|`架构方案`|
 |[浏览器缓存](https://github.com/nmsn/blog/issues/57)|`浏览器`|
