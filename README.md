@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/13/2022
+> 更新时间：11/14/2022
 
 |标题|类型|
 |---|---|
+|[现阶段 css 方案分析](https://github.com/nmsn/blog/issues/61)|`CSS`|
 |[Navigator.sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
 |[路由监听](https://github.com/nmsn/blog/issues/59)|`浏览器`|
 |[前端监控 SDK 的技术要点原理分析](https://github.com/nmsn/blog/issues/58)|`架构方案`|
@@ -33,5 +34,4 @@
 |[原型链](https://github.com/nmsn/blog/issues/34)|`JavaScript`|
 |[async/await 遍历方法](https://github.com/nmsn/blog/issues/33)|`ES6`|
 |[ npm 模块安装机制](https://github.com/nmsn/blog/issues/32)|`npm`|
-|[Promise 的实现](https://github.com/nmsn/blog/issues/31)|`ES6`|
   
