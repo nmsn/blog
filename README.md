@@ -4,6 +4,7 @@
 
 |标题|类型|
 |---|---|
+|[实现 pushState/repalceState 监听](https://github.com/nmsn/blog/issues/62)|`JavaScript`,`React`|
 |[现阶段 css 方案分析](https://github.com/nmsn/blog/issues/61)|`CSS`|
 |[Navigator.sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
 |[路由监听](https://github.com/nmsn/blog/issues/59)|`浏览器`|
@@ -33,5 +34,4 @@
 |[prefetch/preload](https://github.com/nmsn/blog/issues/35)|`JavaScript`|
 |[原型链](https://github.com/nmsn/blog/issues/34)|`JavaScript`|
 |[async/await 遍历方法](https://github.com/nmsn/blog/issues/33)|`ES6`|
-|[ npm 模块安装机制](https://github.com/nmsn/blog/issues/32)|`npm`|
   
