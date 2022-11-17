@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/16/2022
+> 更新时间：11/17/2022
 
 |标题|类型|
 |---|---|
+|[千分位分割数字](https://github.com/nmsn/blog/issues/63)|`手写代码`|
 |[实现 pushState/repalceState 监听](https://github.com/nmsn/blog/issues/62)|`JavaScript`,`React`|
 |[现阶段 css 方案分析](https://github.com/nmsn/blog/issues/61)|`CSS`|
 |[Navigator.sendBeacon](https://github.com/nmsn/blog/issues/60)|`浏览器`|
@@ -33,5 +34,4 @@
 |[基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)|`npm`|
 |[prefetch/preload](https://github.com/nmsn/blog/issues/35)|`JavaScript`|
 |[原型链](https://github.com/nmsn/blog/issues/34)|`JavaScript`|
-|[async/await 遍历方法](https://github.com/nmsn/blog/issues/33)|`ES6`|
   
