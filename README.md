@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/18/2022
+> 更新时间：11/23/2022
 
 |标题|类型|
 |---|---|
+|[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|`浏览器`|
 |[千分位分割数字](https://github.com/nmsn/blog/issues/63)|`手写代码`|
 |[实现 pushState/repalceState 监听](https://github.com/nmsn/blog/issues/62)|`JavaScript`,`React`|
 |[现阶段 css 方案分析](https://github.com/nmsn/blog/issues/61)|`CSS`|
@@ -33,5 +34,4 @@
 |[取消 promise](https://github.com/nmsn/blog/issues/37)|`ES6`|
 |[基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)|`npm`|
 |[prefetch/preload](https://github.com/nmsn/blog/issues/35)|`JavaScript`|
-|[原型链](https://github.com/nmsn/blog/issues/34)|`JavaScript`|
   
