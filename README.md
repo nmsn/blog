@@ -4,6 +4,7 @@
 
 |标题|类型|
 |---|---|
+|[toFixed 精度问题（银行家舍入法）](https://github.com/nmsn/blog/issues/65)|`JavaScript`|
 |[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|`浏览器`|
 |[千分位分割数字](https://github.com/nmsn/blog/issues/63)|`手写代码`|
 |[实现 pushState/repalceState 监听](https://github.com/nmsn/blog/issues/62)|`JavaScript`,`React`|
@@ -33,5 +34,4 @@
 |[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|`TypeScript`|
 |[取消 promise](https://github.com/nmsn/blog/issues/37)|`ES6`|
 |[基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)|`npm`|
-|[prefetch/preload](https://github.com/nmsn/blog/issues/35)|`JavaScript`|
   
