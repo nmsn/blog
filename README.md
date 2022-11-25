@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/24/2022
+> 更新时间：11/25/2022
 
 |标题|类型|
 |---|---|
+|[zsh 快捷键](https://github.com/nmsn/blog/issues/66)|`其他`|
 |[toFixed 精度问题（银行家舍入法）](https://github.com/nmsn/blog/issues/65)|`JavaScript`|
 |[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|`浏览器`|
 |[千分位分割数字](https://github.com/nmsn/blog/issues/63)|`手写代码`|
@@ -33,5 +34,4 @@
 |[手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)|`手写代码`|
 |[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|`TypeScript`|
 |[取消 promise](https://github.com/nmsn/blog/issues/37)|`ES6`|
-|[基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)|`npm`|
   
