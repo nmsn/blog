@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/28/2022
+> 更新时间：11/29/2022
 
 |标题|类型|
 |---|---|
+|[Object 与 Map 对比](https://github.com/nmsn/blog/issues/67)|`ES6`|
 |[zsh 快捷键](https://github.com/nmsn/blog/issues/66)|`其他`|
 |[toFixed 精度问题（银行家舍入法）](https://github.com/nmsn/blog/issues/65)|`JavaScript`|
 |[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|`浏览器`|
@@ -33,5 +34,4 @@
 |[styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)|`CSS`|
 |[手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)|`手写代码`|
 |[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|`TypeScript`|
-|[取消 promise](https://github.com/nmsn/blog/issues/37)|`ES6`|
   
