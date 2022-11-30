@@ -20,6 +20,10 @@ const formatTags = (tags) => {
   return `${tags.map((item) => formatTag(item))}`;
 };
 
+const formatTime = (timeStr) => {
+  return new Date(timeStr).toLocaleString();
+};
+
 const getTableContentItem = ({
   url,
   title,
@@ -28,9 +32,9 @@ const getTableContentItem = ({
   updated_at,
   comments,
 }) => {
-  return `|${formatLink({ url, title })}|${formatTags(
-    tags
-  )}|${created_at}|${updated_at}|${comments}|`;
+  return `|${formatLink({ url, title })}|${formatTags(tags)}|${formatTime(
+    created_at
+  )}|${formatTime(updated_at)}|${comments}|`;
 };
 
 const getTableContent = (origin) => {
