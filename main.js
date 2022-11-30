@@ -21,26 +21,19 @@ const formatTags = (tags) => {
 };
 
 const formatTime = (timeStr) => {
-  return new Date(timeStr).toLocaleString();
+  return new Date(timeStr).toLocaleDateString("zh-CN");
 };
 
-const getTableContentItem = ({
-  url,
-  title,
-  tags,
-  created_at,
-  updated_at,
-  comments,
-}) => {
+const getTableContentItem = ({ url, title, tags, updated_at, comments }) => {
   return `|${formatLink({ url, title })}|${formatTags(tags)}|${formatTime(
-    created_at
-  )}|${formatTime(updated_at)}|${comments}|`;
+    updated_at
+  )}|${comments}|`;
 };
 
 const getTableContent = (origin) => {
   const content = origin?.map((item) => getTableContentItem(item)).join("\n");
 
-  return `|标题|类型|创建时间|更新时间|评论数|\n|---|---|---|---|---|\n${content}`;
+  return `|标题|类型|更新时间|评论数|\n|---|---|---|---|\n${content}`;
 };
 
 const updateTime = () => {
@@ -51,9 +44,9 @@ axios(issuesUrl).then((res) => {
   const { data = [] } = res || {};
 
   const origin = data.map((item) => {
-    const { title, html_url, labels, created_at, updated_at, comments } = item;
+    const { title, html_url, labels, updated_at, comments } = item;
     const tags = labels?.map((item) => item.name);
-    return { title, url: html_url, tags, created_at, updated_at, comments };
+    return { title, url: html_url, tags, updated_at, comments };
   });
 
   const content = getTableContent(origin);
