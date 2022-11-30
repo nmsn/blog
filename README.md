@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：11/29/2022
+> 更新时间：11/30/2022
 
 |标题|类型|
 |---|---|
+|[Number.isNaN 与 globalThis.isNaN 有何区别](https://github.com/nmsn/blog/issues/68)|`JavaScript`|
 |[Object 与 Map 对比](https://github.com/nmsn/blog/issues/67)|`ES6`|
 |[zsh 快捷键](https://github.com/nmsn/blog/issues/66)|`其他`|
 |[toFixed 精度问题（银行家舍入法）](https://github.com/nmsn/blog/issues/65)|`JavaScript`|
@@ -33,5 +34,4 @@
 |[HTTPS 加密逻辑](https://github.com/nmsn/blog/issues/41)|`网络`|
 |[styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)|`CSS`|
 |[手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)|`手写代码`|
-|[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|`TypeScript`|
   
