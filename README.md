@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[Typescript 与 PropTypes 的比较](https://github.com/nmsn/blog/issues/69)|`React`|2022/12/4|0|
+|[Typescript 与 PropTypes 的比较](https://github.com/nmsn/blog/issues/69)|`React`|2022/12/4|1|
 |[Number.isNaN 与 globalThis.isNaN 有何区别](https://github.com/nmsn/blog/issues/68)|`JavaScript`|2022/11/30|1|
 |[Object 与 Map 对比](https://github.com/nmsn/blog/issues/67)|`ES6`|2022/11/29|2|
 |[zsh 快捷键](https://github.com/nmsn/blog/issues/66)|`其他`|2022/11/25|0|
