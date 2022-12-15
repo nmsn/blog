@@ -1,10 +1,11 @@
 # 汇总
 
-> 更新时间：12/7/2022
+> 更新时间：12/15/2022
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[尾递归](https://github.com/nmsn/blog/issues/71)|`JavaScript`|2022/12/7|0|
+|[typescript 中 intrinsic 代表什么?](https://github.com/nmsn/blog/issues/72)|`TypeScript`|2022/12/15|1|
+|[尾递归](https://github.com/nmsn/blog/issues/71)|`JavaScript`|2022/12/7|1|
 |[react-dnd 拖拽样式问题](https://github.com/nmsn/blog/issues/70)|`CSS`,`React`|2022/12/6|1|
 |[Typescript 与 PropTypes 的比较](https://github.com/nmsn/blog/issues/69)|`React`|2022/12/4|1|
 |[Number.isNaN 与 globalThis.isNaN 有何区别](https://github.com/nmsn/blog/issues/68)|`JavaScript`|2022/11/30|1|
