@@ -1,9 +1,11 @@
 # 汇总
 
-> 更新时间：12/15/2022
+> 更新时间：12/16/2022
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[代码命名规范](https://github.com/nmsn/blog/issues/74)|`代码规范`|2022/12/16|0|
+|[tsconfig 配置项 target/module/moduleResolution 区别](https://github.com/nmsn/blog/issues/73)|`TypeScript`|2022/12/15|1|
 |[typescript 中 intrinsic 代表什么?](https://github.com/nmsn/blog/issues/72)|`TypeScript`|2022/12/15|1|
 |[尾递归](https://github.com/nmsn/blog/issues/71)|`JavaScript`|2022/12/7|1|
 |[react-dnd 拖拽样式问题](https://github.com/nmsn/blog/issues/70)|`CSS`,`React`|2022/12/6|1|
