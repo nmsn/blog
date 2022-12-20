@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  issue-collection-md: ^0.0.1
+  issue-collection-md: ^0.0.4
 
 dependencies:
-  issue-collection-md: 0.0.1
+  issue-collection-md: 0.0.4
 
 packages:
 
@@ -12,11 +12,12 @@ packages:
     resolution: {integrity: sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==}
     dev: false
 
-  /axios/0.27.2:
-    resolution: {integrity: sha512-t+yRIyySRTp/wua5xEr+z1q60QmLq8ABsS5O9Me1AsE5dfKqgnCFzwiCZZ/cGNd1lq4/7akDWMxdhVlucjmnOQ==}
+  /axios/1.2.1:
+    resolution: {integrity: sha512-I88cFiGu9ryt/tfVEi4kX2SITsvDddTajXTOFmt2uK1ZVA8LytjtdeyefdQWEf5PU8w+4SSJDoYnggflB5tW4A==}
     dependencies:
       follow-redirects: 1.15.1
       form-data: 4.0.0
+      proxy-from-env: 1.1.0
     transitivePeerDependencies:
       - debug
     dev: false
@@ -52,10 +53,11 @@ packages:
       mime-types: 2.1.35
     dev: false
 
-  /issue-collection-md/0.0.1:
-    resolution: {integrity: sha512-f6pYaVgB0EZ1KRxhVsolfcRKF/tv9JpPpA8X4lcVny+6Wcl4r2ITXisKgVrQC5gHVxyF4Vkl/0T0ane7p+i75A==}
+  /issue-collection-md/0.0.4:
+    resolution: {integrity: sha512-TH4onh5G49pCb+53590mzrSTO1/BauakMevR/hiYHa1PkOAMg443a1YF92A7tTm8/anw99Yn7agZyZb0/wBVHw==}
+    engines: {node: '>=16'}
     dependencies:
-      axios: 0.27.2
+      axios: 1.2.1
     transitivePeerDependencies:
       - debug
     dev: false
@@ -70,4 +72,8 @@ packages:
     engines: {node: '>= 0.6'}
     dependencies:
       mime-db: 1.52.0
+    dev: false
+
+  /proxy-from-env/1.1.0:
+    resolution: {integrity: sha512-D+zkORCbA9f1tdWRK0RaCR3GPv50cMxcrz4X8k5LTSUD1Dkw47mKJEZQNunItRTkWwgtaUSo1RVFRIG9ZXiFYg==}
     dev: false

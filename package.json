@@ -7,9 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "issue-collection-md": "^0.0.1"
+    "issue-collection-md": "^0.0.4"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nmsn/blog.git"
