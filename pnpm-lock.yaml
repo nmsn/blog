@@ -1,10 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  issue-collection-md: ^0.0.4
+  issue-collection-md: ^0.0.5
 
 dependencies:
-  issue-collection-md: 0.0.4
+  issue-collection-md: 0.0.5
 
 packages:
 
@@ -53,8 +53,8 @@ packages:
       mime-types: 2.1.35
     dev: false
 
-  /issue-collection-md/0.0.4:
-    resolution: {integrity: sha512-TH4onh5G49pCb+53590mzrSTO1/BauakMevR/hiYHa1PkOAMg443a1YF92A7tTm8/anw99Yn7agZyZb0/wBVHw==}
+  /issue-collection-md/0.0.5:
+    resolution: {integrity: sha512-iupjH4KDLlSt2H1bGP2P7A88Q6IJlDf/ARidlflGEayfah0SCTZ4ug7cZNrlfk6jjQDHTnKbO98ieWIu46w4xA==}
     engines: {node: '>=16'}
     dependencies:
       axios: 1.2.1

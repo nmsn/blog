@@ -2,20 +2,21 @@
   "name": "blog",
   "description": "Personal blog.",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "./main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "issue-collection-md": "^0.0.4"
+    "issue-collection-md": "^0.0.5"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nmsn/blog.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["blog", "issue", "interview"],
+  "author": "nmsn <136696700@qq.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/nmsn/blog/issues"
   },
