@@ -1,10 +1,11 @@
 # 汇总
 
-> 更新时间：1/3/2023
+> 更新时间：1/6/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[js 实现省略号截断方案对比](https://github.com/nmsn/blog/issues/77)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/1/3|1|
+|[.github](https://github.com/nmsn/blog/issues/78)|![github](https://img.shields.io/badge/-github-000000) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/1/6|0|
+|[js 实现省略号截断方案对比](https://github.com/nmsn/blog/issues/77)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/1/6|1|
 |[CSS 属性兼容性判断方法](https://github.com/nmsn/blog/issues/76)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2023/1/2|1|
 |[webp 知识点](https://github.com/nmsn/blog/issues/75)|![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2022/12/27|0|
 |[代码变量命名规范](https://github.com/nmsn/blog/issues/74)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2022/12/16|1|
