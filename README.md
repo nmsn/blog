@@ -4,7 +4,8 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[在现代 JavaScript 代码中，应该推荐使用 undefined 还是 null？](https://github.com/nmsn/blog/issues/80)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/1/19|1|
+|[SessionStorage](https://github.com/nmsn/blog/issues/81)||2023/1/19|0|
+|[在现代 JavaScript 代码中，应该推荐使用 undefined 还是 null？](https://github.com/nmsn/blog/issues/80)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/1/19|2|
 |[React SSR 原理](https://github.com/nmsn/blog/issues/79)|![React](https://img.shields.io/badge/-React-0B39DD) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/1/10|0|
 |[.github 文件夹或者仓库的作用](https://github.com/nmsn/blog/issues/78)|![github](https://img.shields.io/badge/-github-000000) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/1/9|0|
 |[js 实现省略号截断方案对比](https://github.com/nmsn/blog/issues/77)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/1/6|1|
