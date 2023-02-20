@@ -4,6 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[为什么 rollup 不将 node-resolve 内置](https://github.com/nmsn/blog/issues/87)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/2/20|1|
 |[Nextjs 中 getInitialProps/getServerSideProps/getStaticProps 的区别](https://github.com/nmsn/blog/issues/86)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/7|1|
 |[为什么 React 16 版本中 render 阶段放弃了使用递归](https://github.com/nmsn/blog/issues/85)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/3|1|
 |[redux-thunk 原理及应用](https://github.com/nmsn/blog/issues/84)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/1|1|
