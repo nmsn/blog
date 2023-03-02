@@ -1,9 +1,10 @@
 # 汇总
 
-> 更新时间：2/20/2023
+> 更新时间：3/2/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[什么是元数据？](https://github.com/nmsn/blog/issues/88)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2023/3/2|0|
 |[为什么 rollup 不将 node-resolve 内置](https://github.com/nmsn/blog/issues/87)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/2/20|1|
 |[Nextjs 中 getInitialProps/getServerSideProps/getStaticProps 的区别](https://github.com/nmsn/blog/issues/86)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/7|1|
 |[为什么 React 16 版本中 render 阶段放弃了使用递归](https://github.com/nmsn/blog/issues/85)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/3|1|
