@@ -20,7 +20,7 @@ jobs:
           node-version: 16.x
 
       - name: "Install"
-        run: npx pnpm i
+        run: npx pnpm i --no-frozen-lockfile
 
       - name: "Run bash"
         run: node main.js
