@@ -1,10 +1,11 @@
 # 汇总
 
-> 更新时间：3/2/2023
+> 更新时间：4/20/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[什么是元数据？](https://github.com/nmsn/blog/issues/88)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2023/3/2|0|
+|[public 和 assets 目录的区别](https://github.com/nmsn/blog/issues/89)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/4/20|0|
+|[什么是元数据？](https://github.com/nmsn/blog/issues/88)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2023/3/2|1|
 |[为什么 rollup 不将 node-resolve 内置](https://github.com/nmsn/blog/issues/87)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/2/20|1|
 |[Nextjs 中 getInitialProps/getServerSideProps/getStaticProps 的区别](https://github.com/nmsn/blog/issues/86)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/7|1|
 |[为什么 React 16 版本中 render 阶段放弃了使用递归](https://github.com/nmsn/blog/issues/85)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/3|1|
@@ -54,7 +55,7 @@
 |[HTTPS 加密逻辑](https://github.com/nmsn/blog/issues/41)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2022/8/31|0|
 |[styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2022/8/31|0|
 |[手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)|![手写代码](https://img.shields.io/badge/-手写代码-d4c5f9)|2022/9/7|1|
-|[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/8/29|0|
+|[tsc/babel 编译 ts 的选择](https://github.com/nmsn/blog/issues/38)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/4/10|1|
 |[取消 promise](https://github.com/nmsn/blog/issues/37)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2022/8/24|0|
 |[基于符号链接的 node_modules 结构（pnpm）](https://github.com/nmsn/blog/issues/36)|![npm](https://img.shields.io/badge/-npm-D8321E)|2022/11/1|1|
 |[prefetch/preload](https://github.com/nmsn/blog/issues/35)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/8/24|0|
@@ -70,7 +71,7 @@
 |[process.env 赋值的属性会隐式转化为 string 类型](https://github.com/nmsn/blog/issues/25)|![Node](https://img.shields.io/badge/-Node-A6BF40)|2022/8/9|0|
 |[package.json 中 browser，module，main 字段优先级](https://github.com/nmsn/blog/issues/23)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/7/27|0|
 |[不推荐使用 camelCase/PascalCase 命名文件](https://github.com/nmsn/blog/issues/22)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/7/25|0|
-|[不推荐使用 Enum 类型](https://github.com/nmsn/blog/issues/21)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/7/11|0|
+|[不推荐使用 Enum 类型](https://github.com/nmsn/blog/issues/21)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/3/24|3|
 |[获取 Types 的常见方法](https://github.com/nmsn/blog/issues/20)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7) ![React](https://img.shields.io/badge/-React-0B39DD)|2022/7/11|0|
 |[Typing defaultProps 不推荐使用](https://github.com/nmsn/blog/issues/19)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/7/11|0|
 |[React Hooks 闭包陷阱](https://github.com/nmsn/blog/issues/18)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/7/11|0|
@@ -90,4 +91,4 @@
 |[JS 中 Object 的 keys 是无序的吗](https://github.com/nmsn/blog/issues/4)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/5/22|0|
 |[黄金圈法则（Why-How-What）](https://github.com/nmsn/blog/issues/3)|![思维方式](https://img.shields.io/badge/-思维方式-c5def5)|2022/5/19|0|
 |[执行上下文与作用域](https://github.com/nmsn/blog/issues/2)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/5/18|1|
-|[interface 和 type 的选择问题](https://github.com/nmsn/blog/issues/1)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/1/30|3|
+|[interface 和 type 的选择问题](https://github.com/nmsn/blog/issues/1)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/3/24|4|
