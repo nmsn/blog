@@ -4,7 +4,8 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[public 和 assets 目录的区别](https://github.com/nmsn/blog/issues/89)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/4/20|0|
+|[html2canvas 和 html-to-image 转换图片对比](https://github.com/nmsn/blog/issues/90)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![架构方案](https://img.shields.io/badge/-架构方案-204C57)|2023/4/20|0|
+|[public 和 assets 目录的区别](https://github.com/nmsn/blog/issues/89)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/4/20|1|
 |[什么是元数据？](https://github.com/nmsn/blog/issues/88)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2023/3/2|1|
 |[为什么 rollup 不将 node-resolve 内置](https://github.com/nmsn/blog/issues/87)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/2/20|1|
 |[Nextjs 中 getInitialProps/getServerSideProps/getStaticProps 的区别](https://github.com/nmsn/blog/issues/86)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/2/7|1|
