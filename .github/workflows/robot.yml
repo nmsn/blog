@@ -3,6 +3,8 @@ name: schedule-update
 on:
   issues:
     types: [opened, edited]
+  issue_comment:
+    types: [created, edited, deleted]
   push: 
    branches:
     - main
