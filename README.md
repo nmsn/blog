@@ -48,7 +48,7 @@
 |[react keep-alive 实现原理](https://github.com/nmsn/blog/issues/51)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/10/18|0|
 |[散列/哈希函数](https://github.com/nmsn/blog/issues/50)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2022/10/17|0|
 |[权限系统设计](https://github.com/nmsn/blog/issues/49)|![架构方案](https://img.shields.io/badge/-架构方案-204C57)|2022/10/10|0|
-|[promise.all 限制并发数量](https://github.com/nmsn/blog/issues/48)|![手写代码](https://img.shields.io/badge/-手写代码-d4c5f9)|2023/5/7|0|
+|[promise.all 限制并发数量](https://github.com/nmsn/blog/issues/48)|![手写代码](https://img.shields.io/badge/-手写代码-d4c5f9)|2023/5/7|1|
 |[react Form 的实现原理](https://github.com/nmsn/blog/issues/47)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/9/18|0|
 |[flex 实现骰子布局](https://github.com/nmsn/blog/issues/46)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2022/9/15|0|
 |[peers 在 pnpm 中如何被处理的](https://github.com/nmsn/blog/issues/45)|![npm](https://img.shields.io/badge/-npm-D8321E)|2022/11/1|1|
