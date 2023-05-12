@@ -1,6 +1,6 @@
 # 汇总
 
-> 更新时间：5/7/2023
+> 更新时间：5/12/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
@@ -32,7 +32,7 @@
 |[Object 与 Map 对比](https://github.com/nmsn/blog/issues/67)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2022/11/29|2|
 |[zsh 快捷键](https://github.com/nmsn/blog/issues/66)|![其他](https://img.shields.io/badge/-其他-fef2c0)|2022/11/25|0|
 |[toFixed 精度问题（银行家舍入法）](https://github.com/nmsn/blog/issues/65)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/11/24|1|
-|[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2022/11/24|1|
+|[chrome 不再支持 http2 server push](https://github.com/nmsn/blog/issues/64)|![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2023/5/12|1|
 |[千分位分割数字](https://github.com/nmsn/blog/issues/63)|![手写代码](https://img.shields.io/badge/-手写代码-d4c5f9)|2022/11/17|0|
 |[实现 pushState/repalceState 监听](https://github.com/nmsn/blog/issues/62)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![React](https://img.shields.io/badge/-React-0B39DD)|2022/11/15|0|
 |[现阶段 css 方案分析](https://github.com/nmsn/blog/issues/61)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2022/11/18|0|
