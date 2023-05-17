@@ -1,6 +1,6 @@
 # 汇总
 
-> 更新时间：5/16/2023
+> 更新时间：5/17/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
@@ -54,7 +54,7 @@
 |[peers 在 pnpm 中如何被处理的](https://github.com/nmsn/blog/issues/45)|![npm](https://img.shields.io/badge/-npm-D8321E)|2022/11/1|1|
 |[PPI 和 CPI](https://github.com/nmsn/blog/issues/44)|![经济](https://img.shields.io/badge/-经济-E68647)|2022/9/13|0|
 |[rollup vs webpack](https://github.com/nmsn/blog/issues/43)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/2/20|0|
-|[Promise 执行顺序](https://github.com/nmsn/blog/issues/42)|![面试题](https://img.shields.io/badge/-面试题-9ED7E3)|2023/5/16|4|
+|[Promise 执行顺序](https://github.com/nmsn/blog/issues/42)|![面试题](https://img.shields.io/badge/-面试题-9ED7E3)|2023/5/17|4|
 |[HTTPS 加密逻辑](https://github.com/nmsn/blog/issues/41)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2022/8/31|0|
 |[styled-components 在 React 组件中使用的问题](https://github.com/nmsn/blog/issues/40)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2022/8/31|0|
 |[手写 call/apply/bind](https://github.com/nmsn/blog/issues/39)|![手写代码](https://img.shields.io/badge/-手写代码-d4c5f9)|2022/9/7|1|
