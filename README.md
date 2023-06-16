@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[RGB 和 HSL 如何相互转换](https://github.com/nmsn/blog/issues/94)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2023/6/16|0|
+|[RGB 和 HSL 如何相互转换](https://github.com/nmsn/blog/issues/94)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2023/6/16|1|
 |[什么是 IOC](https://github.com/nmsn/blog/issues/93)|![架构方案](https://img.shields.io/badge/-架构方案-204C57)|2023/6/7|1|
 |[webpack 打包产物分析中 stat size/parsed size/gzipped size 都是什么](https://github.com/nmsn/blog/issues/92)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04)|2023/5/4|1|
 |[File 和 Blob](https://github.com/nmsn/blog/issues/91)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/5/2|1|
