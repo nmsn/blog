@@ -8,13 +8,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "issue-collection-md": "^0.0.5"
+    "issue-collection-md": "^0.1.1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nmsn/blog.git"
   },
-  "keywords": ["blog", "issue", "interview"],
+  "keywords": [
+    "blog",
+    "issue",
+    "interview"
+  ],
   "author": "nmsn <136696700@qq.com>",
   "license": "MIT",
   "bugs": {
