@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：7/12/2023
+> 更新时间：7/17/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[html-to-image 原理](https://github.com/nmsn/blog/issues/96)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/7/17|0|
 |[/r 和 /n 的区别以及 node 中的换行符号](https://github.com/nmsn/blog/issues/95)|![Node](https://img.shields.io/badge/-Node-A6BF40)|2023/6/27|2|
 |[RGB 和 HSL 如何相互转换](https://github.com/nmsn/blog/issues/94)|![CSS](https://img.shields.io/badge/-CSS-4B6FEB)|2023/6/16|1|
 |[什么是 IOC](https://github.com/nmsn/blog/issues/93)|![架构方案](https://img.shields.io/badge/-架构方案-204C57)|2023/6/7|1|
