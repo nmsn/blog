@@ -1,6 +1,6 @@
 # Collection
 
-> 更新时间：7/17/2023
+> 更新时间：7/24/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
@@ -81,7 +81,7 @@
 |[不推荐使用 Enum 类型](https://github.com/nmsn/blog/issues/21)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/3/24|3|
 |[获取 Types 的常见方法](https://github.com/nmsn/blog/issues/20)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7) ![React](https://img.shields.io/badge/-React-0B39DD)|2022/7/11|0|
 |[Typing defaultProps 不推荐使用](https://github.com/nmsn/blog/issues/19)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/7/11|0|
-|[React Hooks 闭包陷阱](https://github.com/nmsn/blog/issues/18)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/7/11|0|
+|[React Hooks 闭包陷阱](https://github.com/nmsn/blog/issues/18)|![React](https://img.shields.io/badge/-React-0B39DD)|2023/7/24|0|
 |[交叉类型的类型守卫](https://github.com/nmsn/blog/issues/17)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/7/1|0|
 |[ReactElement/ReactNode/JSX.Element](https://github.com/nmsn/blog/issues/16)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/6/29|0|
 |[尾调用](https://github.com/nmsn/blog/issues/15)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2022/6/29|0|
