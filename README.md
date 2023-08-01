@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[单点登录及实现方式](https://github.com/nmsn/blog/issues/98)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/8/1|1|
+|[单点登录及实现方式](https://github.com/nmsn/blog/issues/98)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/8/1|2|
 |[常见请求类型](https://github.com/nmsn/blog/issues/97)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/7/24|1|
 |[html-to-image 原理](https://github.com/nmsn/blog/issues/96)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/7/17|1|
 |[/r 和 /n 的区别以及 node 中的换行符号](https://github.com/nmsn/blog/issues/95)|![Node](https://img.shields.io/badge/-Node-A6BF40)|2023/6/27|2|
