@@ -1,6 +1,6 @@
 # Collection
 
-> 更新时间：8/1/2023
+> 更新时间：8/14/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
@@ -87,7 +87,7 @@
 |[交叉类型的类型守卫](https://github.com/nmsn/blog/issues/17)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/7/1|0|
 |[ReactElement/ReactNode/JSX.Element](https://github.com/nmsn/blog/issues/16)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/6/29|0|
 |[尾调用](https://github.com/nmsn/blog/issues/15)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2022/6/29|0|
-|[typescript 中的 any/unknown/void/never](https://github.com/nmsn/blog/issues/14)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2022/6/11|0|
+|[typescript 中的 any/unknown/void/never](https://github.com/nmsn/blog/issues/14)|![TypeScript](https://img.shields.io/badge/-TypeScript-0987E7)|2023/8/14|0|
 |[__dirname 和 process.cwd 区别](https://github.com/nmsn/blog/issues/13)|![Node](https://img.shields.io/badge/-Node-A6BF40)|2022/6/9|0|
 |[ES5/ES6 类的区别](https://github.com/nmsn/blog/issues/12)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/6/11|0|
 |[VSCode 提示音关闭方法](https://github.com/nmsn/blog/issues/11)|![VSCode](https://img.shields.io/badge/-VSCode-c5def5)|2022/5/31|0|
