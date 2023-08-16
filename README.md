@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：8/14/2023
+> 更新时间：8/16/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[zustand 中使用 immer 的特性解决深层嵌套问题](https://github.com/nmsn/blog/issues/99)|![源码解析](https://img.shields.io/badge/-源码解析-bfdadc)|2023/8/16|0|
 |[单点登录及实现方式](https://github.com/nmsn/blog/issues/98)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/8/1|2|
 |[常见请求类型](https://github.com/nmsn/blog/issues/97)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/7/24|1|
 |[html-to-image 原理](https://github.com/nmsn/blog/issues/96)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/7/17|1|
