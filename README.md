@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：8/16/2023
+> 更新时间：8/18/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[webpack-snapshot-plugin 实现原理](https://github.com/nmsn/blog/issues/100)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/8/18|0|
 |[zustand 中使用 immer 的特性解决深层嵌套问题](https://github.com/nmsn/blog/issues/99)|![源码解析](https://img.shields.io/badge/-源码解析-bfdadc)|2023/8/16|0|
 |[单点登录及实现方式](https://github.com/nmsn/blog/issues/98)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/8/1|2|
 |[常见请求类型](https://github.com/nmsn/blog/issues/97)|![网络](https://img.shields.io/badge/-网络-bfdadc)|2023/7/24|1|
