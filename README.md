@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[什么是卫语句](https://github.com/nmsn/blog/issues/102)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/7|1|
+|[什么是卫语句](https://github.com/nmsn/blog/issues/102)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/7|2|
 |[console.log 是使用插件删除还是在 commit 前删除的分析](https://github.com/nmsn/blog/issues/101)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2023/9/28|1|
 |[webpack-snapshot-plugin 实现原理](https://github.com/nmsn/blog/issues/100)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/8/18|0|
 |[zustand 中使用 immer 的特性解决深层嵌套问题](https://github.com/nmsn/blog/issues/99)|![源码解析](https://img.shields.io/badge/-源码解析-bfdadc)|2023/8/16|0|
