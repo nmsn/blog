@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[硬编码](https://github.com/nmsn/blog/issues/104)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/11|0|
+|[硬编码](https://github.com/nmsn/blog/issues/104)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/11|1|
 |[Vue2 代码问题大盘点](https://github.com/nmsn/blog/issues/103)|![Vue](https://img.shields.io/badge/-Vue-96FBCA)|2023/10/11|1|
 |[什么是卫语句](https://github.com/nmsn/blog/issues/102)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/7|2|
 |[console.log 是使用插件删除还是在 commit 前删除的分析](https://github.com/nmsn/blog/issues/101)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2023/9/28|1|
