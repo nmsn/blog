@@ -1,9 +1,10 @@
 # Collection
 
-> 更新时间：10/7/2023
+> 更新时间：10/11/2023
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
+|[Vue2 代码问题大盘点](https://github.com/nmsn/blog/issues/103)|![Vue](https://img.shields.io/badge/-Vue-96FBCA)|2023/10/11|1|
 |[什么是卫语句](https://github.com/nmsn/blog/issues/102)|![代码规范](https://img.shields.io/badge/-代码规范-e99695)|2023/10/7|2|
 |[console.log 是使用插件删除还是在 commit 前删除的分析](https://github.com/nmsn/blog/issues/101)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6) ![浏览器](https://img.shields.io/badge/-浏览器-1d76db)|2023/9/28|1|
 |[webpack-snapshot-plugin 实现原理](https://github.com/nmsn/blog/issues/100)|![构建工具](https://img.shields.io/badge/-构建工具-fbca04) ![TODO](https://img.shields.io/badge/-TODO-539FF4)|2023/8/18|0|
@@ -103,6 +104,5 @@
 |[React18批处理](https://github.com/nmsn/blog/issues/5)|![React](https://img.shields.io/badge/-React-0B39DD)|2022/5/23|1|
 |[JS 中 Object 的 keys 是无序的吗](https://github.com/nmsn/blog/issues/4)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/5/22|0|
 |[黄金圈法则（Why-How-What）](https://github.com/nmsn/blog/issues/3)|![思维方式](https://img.shields.io/badge/-思维方式-c5def5)|2022/5/19|0|
-|[执行上下文与作用域](https://github.com/nmsn/blog/issues/2)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2022/5/18|1|
 
 [查看更多...](https://github.com/nmsn/blog/issues)
