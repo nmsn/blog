@@ -4,7 +4,7 @@
 
 |标题|类型|更新时间|评论数|
 |---|---|---|---|
-|[let const 选择问题](https://github.com/nmsn/blog/issues/108)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2024/1/18|0|
+|[let const 选择问题](https://github.com/nmsn/blog/issues/108)|![ES6](https://img.shields.io/badge/-ES6-F6AC2E)|2024/1/18|1|
 |[element-ui 手动控制 dropdown 显示](https://github.com/nmsn/blog/issues/107)|![Vue](https://img.shields.io/badge/-Vue-96FBCA)|2023/12/7|1|
 |[qs/query-string/URL/URLSearchParams 对比](https://github.com/nmsn/blog/issues/106)|![JavaScript](https://img.shields.io/badge/-JavaScript-c2e0c6)|2023/10/18|1|
 |[解决 nextjs + zustand 持久化问题的方法](https://github.com/nmsn/blog/issues/105)|![架构方案](https://img.shields.io/badge/-架构方案-204C57)|2023/10/11|0|
